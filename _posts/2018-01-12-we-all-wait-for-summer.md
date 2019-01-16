@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "We all wait for summer"
-categories: [ Jekyll, tutorial ]
-image: assets/images/locatfy_desgn.jpg
+title:  "Designed for explorers!"
+categories: [ Locatify, Designing ]
+image: assets/images/l1.jpg
 featured: true
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+Locatify is a mobile application that helps to provide the guidance to the tourists that came from different countries and to those people who are unaware of different places within a given location.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+It has aimed to improve the tourism activities in the country and also reduce the rate of robbery in different areas within the country.
+It has also aimed at providing the employment opportunities to a lot of people within the country.
