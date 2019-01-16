@@ -10,6 +10,7 @@ We are a group of students from different education institutes (DIT & SUZA) brou
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/group_pic.jpg)
 
+From left is Baraka Sanane(DIT), Abdillah Uwesu (SUZA), Gloria Wella (DIT), Moza Mbarouk (SUZA) and Kelvin Wilfred (DIT).
 
 
 
