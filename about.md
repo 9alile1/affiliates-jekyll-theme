@@ -12,17 +12,6 @@ We are a group of students from different education institutes (DIT & SUZA) brou
 
 
 
-<!-- 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
- -->
-
-
-
-
 
 <!-- 
 #### Features
