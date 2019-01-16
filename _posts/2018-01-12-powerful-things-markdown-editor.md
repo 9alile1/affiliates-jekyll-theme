@@ -3,7 +3,7 @@ layout: post
 title:  "Why Locatify?"
 author: kelvin
 categories: [ Locatify, Designing ]
-image: assets/images/4.jpg
+image: assets/images/kilimanjaro_kibo.jpg
 featured: true
 ---
 The app stimulate tourism activities in a country.
