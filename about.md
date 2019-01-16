@@ -4,13 +4,12 @@ title: About Us
 comments: true
 ---
 
-We are a group of students from different education institutes (DIT & SUZA) brought together by Global Media Technologies & Cultures Lab from MIT to the workshop conducted at DIT. The goal of this workshop is to use IT solution for solving social problems. The following are the name of participants for this project.
+We are a group of students from different education institutes (DIT & SUZA) brought together by Global Media Technologies & Cultures Lab from MIT to the workshop conducted at DIT. The goal of this workshop is to use IT solution for solving social problems. The following is the picture showing students who participated on creating this project. From left is Baraka Sanane(DIT), Abdillah Uwesu (SUZA), Gloria Wella (DIT), Moza Mbarouk (SUZA) and Kelvin Wilfred (DIT).
 
-**Eagles Participants**
+**Project Participants from the GMTac-Lab Workshop**
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/group_pic.jpg)
 
-From left is Baraka Sanane(DIT), Abdillah Uwesu (SUZA), Gloria Wella (DIT), Moza Mbarouk (SUZA) and Kelvin Wilfred (DIT).
 
 
 
