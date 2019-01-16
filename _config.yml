@@ -5,11 +5,7 @@ meta_description: "Locatify let explore."
 logo: 'assets/images/kelvin.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-<<<<<<< HEAD
 baseurl: 
-=======
-baseurl:
->>>>>>> f329bd25ed0deff599462c5ea8112585aa4f7e21
 email: '9alile1@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
