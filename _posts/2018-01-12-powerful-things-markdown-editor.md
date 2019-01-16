@@ -7,12 +7,12 @@ image: assets/images/kilimanjaro_kibo.jpg
 featured: true
 ---
 The app helps tourists focus on your vocation rather than your security.
-    Locatify help tourists to register easily and get to where they want to visit. Looking at the current situation where tourists have to be registered by authorities but by using locatify tourists can be registered and easily countinue with their vocation. 
+Locatify help tourists to register easily and get to where they want to visit. Looking at the current situation where tourists have to be registered by authorities but by using locatify tourists can be registered and easily countinue with their vocation. 
 
-    Locatify gives international and local tourists confidence on where they want to be without worrying about untrusted guiders.
-    Though locatify app where all the tour guiders will be registered to the system and meet authorities qualifications. 
+>Locatify gives international and local tourists confidence on where they want to be without worrying about untrusted guiders.
+Though locatify app where all the tour guiders will be registered to the system and meet authorities qualifications. 
 
-    That is easy to registered and can be trusted.
+That is easy to registered and can be trusted.
 
 
 
