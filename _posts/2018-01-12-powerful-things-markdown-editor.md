@@ -8,7 +8,6 @@ featured: true
 ---
 The app stimulate tourism activities in a country.
 
-As people 
 
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
 
