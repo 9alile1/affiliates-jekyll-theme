@@ -6,20 +6,25 @@ comments: true
 
 We are a group of students from different education institutes (DIT & SUZA) brought together by Global Media Technologies & Cultures Lab from MIT to the workshop conducted at DIT. The goal of this workshop is to use IT solution for solving social problems. The following are the name of participants for this project.
 
-**About us**
+**Eagles Participants**
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+![jekyll template mediumish]({{site.baseurl}}/assets/images/group_pic.jpg)
 
-<!-- <a href="https://gum.co/affiliates-jekyll-template" target="_blank">Download - Affiliates Jekyll Theme</a> -->
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
+<!-- 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
+ -->
 
+
+
+
+
+<!-- 
 #### Features
 
 - Built for Jekyll
@@ -99,4 +104,4 @@ layout: page
 title: Affiliates Template for Jekyll
 comments: true
 ---
-</pre>
+</pre> -->
