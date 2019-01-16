@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: About Us
 comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+We are a group of students from different education institutes (DIT & SUZA) brought together by Global Media Technologies & Cultures Lab from MIT to the workshop conducted at DIT. The goal of this workshop is to use IT solution for solving social problems. The following are the name of participants for this project.
 
-**License & Download**
+**About us**
 
 "Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
 
-<a href="https://gum.co/affiliates-jekyll-template" target="_blank">Download - Affiliates Jekyll Theme</a>
+<!-- <a href="https://gum.co/affiliates-jekyll-template" target="_blank">Download - Affiliates Jekyll Theme</a> -->
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 

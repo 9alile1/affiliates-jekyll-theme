@@ -2,7 +2,7 @@
 name: Locatify
 description: Site for Locatify mobile app for tourists and explorers
 meta_description: "Locatify let explore."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo_black.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: 
