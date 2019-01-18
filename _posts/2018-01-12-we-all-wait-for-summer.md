@@ -2,8 +2,8 @@
 layout: post
 title:  "Designed for explorers!"
 categories: [ Locatify, Designing ]
-image: assets/images/l1.jpg
-featured: true
+image: assets/images/5.jpg
+# featured: true
 ---
 Locatify is a mobile application that helps to provide the guidance to the tourists that came from different countries and to those people who are unaware of different places within a given location.
 
